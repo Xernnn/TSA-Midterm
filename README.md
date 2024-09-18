@@ -28,8 +28,12 @@ This project focuses on predicting the stock prices of two companies: HPG (Hoa P
 
 ## Methodology
 1. **Data Collection**: Stock price data for HPG and MWG was collected and analyzed.
+![image](https://github.com/user-attachments/assets/3dc90595-803c-4411-8796-ce71fe8314ba)
+
 2. **Descriptive Statistics**: Basic statistics were computed to summarize the data.
+
 3. **Data Visualization**: Time series plots and percentage changes were visualized to observe trends.
+
 4. **Model Implementation**:
    - **ARIMA**: Used for traditional time series forecasting.
    - **LSTM**: Implemented to capture temporal dependencies in complex data.
